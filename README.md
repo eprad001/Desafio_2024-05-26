@@ -1,1 +1,1 @@
-# Desafio_2024-05-26
+Las imágenes de respaldo de los fork, commit y pull request están en el repositorio.
